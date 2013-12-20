@@ -7,4 +7,4 @@ In our case we have created the database according to the wishes of our customer
 
 Although we have created this database according to Erkki Jokela's wishes, the model can also be adabted to meet other purposes and thus be used for other projects. The database structure is quite simple, which makes it easy for also other programmers to understand it.
 
-During this project we have learned about the basics of database design and how to use our new skills in practice. 
+During this project we have learned about the basics of database design and how to use our new skills in practice. We believe that we can use these skills in the future school projects and in work life. 
